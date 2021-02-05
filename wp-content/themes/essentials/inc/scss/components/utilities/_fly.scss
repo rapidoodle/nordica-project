@@ -1,0 +1,11 @@
+.fly-sm {
+    @include fly-sm();
+}
+
+.fly {
+    @include fly();
+}
+
+.fly-lg {
+    @include fly-lg();
+}
